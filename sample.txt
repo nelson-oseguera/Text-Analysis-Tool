@@ -1,0 +1,1 @@
+This is a sample text. It contains some words, some of which may repeat. This is the longest word in the text: supercalifragilisticexpialidocious.
